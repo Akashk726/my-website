@@ -3,7 +3,7 @@
 This repository contains a simple static website hosted on GitHub Pages, created for a task to learn web hosting.
 
 ## Live Website
-[Visit the live site](https://username.github.io/my-website/)
+[Visit the live site](https://akashk726.github.io/my-website/)
 
 ## Description
 The website includes:
